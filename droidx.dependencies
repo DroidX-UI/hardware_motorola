@@ -2,7 +2,7 @@
   {
     "repository": "system_qcom",
     "target_path": "system/qcom",
-    "branch": "thirteen",
-    "remote": "pixel"
+    "branch": "13",
+    "remote": "droidx"
   }
 ]
