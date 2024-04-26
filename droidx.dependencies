@@ -1,0 +1,8 @@
+[
+  {
+    "repository": "android_system_qcom",
+    "target_path": "system/qcom",
+    "branch": "14_v2",
+    "remote": "droidx"
+  }
+]
